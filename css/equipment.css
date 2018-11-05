@@ -16,7 +16,8 @@
     "header header header header header header header header"
     "shenzu shenzu ren ren yaoh yaoh mogui mogui"
     "equip1 equip2 equip3 equip4 equip5 equip6 equip7 equip8"
-    "footer footer footer footer footer footer footer footer";
+    "footer footer footer footer footer footer footer footer"
+    "footer1 footer1 footer1 footer1 footer2 footer2 footer2 footer2";
 }
 
 .content-header {
@@ -73,6 +74,39 @@
 
 .equipment-list {
     grid-area: equip2;
+    background: #efefef;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+    float: left;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.equip-footer {
+    grid-area: footer;
+    background: #efefef;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+    float: left;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.equip-footer1 {
+    grid-area: footer1;
+    background: #efefef;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+    float: left;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.equip-footer2 {
+    grid-area: footer2;
     background: #efefef;
     padding: 10px;
     margin-top: 10px;
