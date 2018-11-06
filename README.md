@@ -8,7 +8,7 @@ The site that we normally use as a database for information about the game is al
 
 ![preview](./github/preview.png)
 
-#to-do
+# to-do
 A lot
 
 -Individual Weapon Pages
