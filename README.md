@@ -11,8 +11,8 @@ The site that we normally use as a database for information about the game is al
 # to-do
 A lot
 
--Individual Weapon Pages
--Armor pages
--Accessory pages
--Pet related pages
--Skill/Spell pages
+- Individual Weapon Pages
+- Armor pages
+- Accessory pages
+- Pet related pages
+- Skill/Spell pages
